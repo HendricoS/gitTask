@@ -1,2 +1,2 @@
-const message = "Git is Awesome!";
-console.log(message);
+const userInput = prompt("Please enter a name:");
+console.log(userInput);
